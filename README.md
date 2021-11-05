@@ -1,7 +1,8 @@
 # Matricas kalkulators
 
 ## Apraksts
-	Šī programma spēj veikt daudzas dažādas matemātiskas darbības ar matricām (domāju, kā pagaidām tikai ar kvadrātveida matricām). 
+	Šī programma spēj veikt daudzas dažādas matemātiskas darbības 
+    ar matricām (domāju, kā pagaidām tikai ar kvadrātveida matricām). 
 ## Galvenās funkcijas
 	- Ievadīt tekstu
 	- Apstrādāt datus
